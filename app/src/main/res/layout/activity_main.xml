@@ -11,8 +11,8 @@
     tools:context="com.example.cjcu.myapplication.MainActivity"
     android:orientation="vertical">
 
-    <ListView
+    <Spinner
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/list" />
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner" />
 </LinearLayout>
